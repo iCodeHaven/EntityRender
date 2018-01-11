@@ -1,0 +1,6 @@
+main: com.icodehaven.entityrender.Core
+name: EntityRender
+version: 1.0.0
+commands:
+  render:
+    aliases: [entityrender, toggletnt, togglesand, toggleentities]
